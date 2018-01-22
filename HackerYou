@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+		<style>
+
+	.container1 {
+    position: relative;
+
+}
+
+.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: montserrat;
+    
+}
+
+div.cover {
+	width: 100%;
+}
+	
+		ul {
+			list-style-type: none;
+			margin-left: 80px;
+			margin-top: 0;
+			padding: 0.3px 8px;
+			overflow: hidden;
+			background-color: lightgrey;
+			position: fixed;
+			top: 0;
+			width: 100%;
+			font-family: montserrat;
+			font-size: 16px;
+		}
+		
+		li {
+			float: left;
+			
+		}
+		
+		li: last-child {
+			border-right: none;
+		}
+		li a {
+			
+			display: block; 
+			color: black;
+			text-align: center;
+			padding: 30px 8px;
+			text-decoration: none;
+		}
+		
+	li a:hover {
+		background-color: grey;
+	}
+	
+		body { 
+			background-color: white;
+		}
+		
+		h1 {
+		 	color: black;
+			text-align: left;
+			font-family: montserrat;
+			background-color: lightgrey;
+		}
+		h2 {
+			color: black;
+			text-align: center;
+			font-family: montserrat;
+			margin-top:50px;
+		}
+		p {
+			font-family: montserrat;
+			font-size: 14px;
+			
+		}
+		
+		div.bio {
+			float: left;
+			margin-left:0px;
+			padding-right: 30px;
+			padding-bottom: 10px;
+			font-family: montserrat;
+			font-size: 14px;
+		}
+		
+		div.intro {
+			padding-top:30px;
+			font-family:montserrat;
+			font-size: 14px;
+			margin-right:100px;
+			margin-left: 100px;
+		}
+	
+	div.header {
+		background-color: lightgrey;
+	}
+	
+	div.header1 {
+		background-color: black;
+		color: white;
+		padding: 30px;
+		margin-right:-110px;
+		margin-left:-100px;
+		
+	}
+	
+	
+	
+	</style>
+	</head>
+	<body>
+	
+	<a name="top"> </a>
+	
+	<div class="container1" id="home">
+	<img src="IMG_8889.JPG" alt=“cover” width="100.8%" height="auto" style="left:1;right:0;">
+
+  <div class="center">HACKERYOU JOB APPLICATION:<br>OFFICE MANAGER</div>
+	</div>
+	 
+	<a href="#home"> <img src="hackeryoulogo.png" alt="hackeryoulogo" width="80" height="80" style=top:0;position:fixed;>
+	</a>
+
+	<ul> 
+		
+		<li><a href="#about"> ABOUT </a></li>
+		<li><a href="#cover"> COVER LETTER </a></li>
+		<li><a href="#resume"> RESUME </a></li>
+		<li><a href="#contact"> CONTACT </a><li> 
+	
+	</ul> 
+
+	
+	<h3 id="about" style="opacity:0; padding: 10px"> ABOUT ME </h3> 
+	<h2 > APRIL QU </h2>
+
+
+	<div class="intro"><p> <div class="bio"> <img src="_MG_9604.JPG" alt="bio photo of me" width="210" height="180"> </div> 
+	Hi there, my name is April Qu. I am a recent business graduate with a concentration in marketing and a minor in psychology from Wilfrid Laurier University. I am a highly-organized, friendly and resourceful individual with over 1 year of office experience in administration and marketing. <br><br> I lived a year abroad and spent 6 months backpacking and volunteering across Europe. I am highly personable, multilingual in Mandarin and French, and comfortable engaging with different groups of people. I am passionate about travelling, discovering different cultures (and food!), and meeting new people. 
+ </p></div>
+	
+	<br><br>
+	
+	<div style="margin-left: 100px; margin-right:100px; padding-top: 30px; height:1650px;">
+	<hr>
+
+	<h3 id="cover" style="opacity:0; padding: 10px"> COVER LETTER </h3>
+	<h2 > COVER LETTER </h2>
+
+	<p > Hi there, <br><br>
+
+
+I am excited to be applying for the position of Office Manager at HackerYou. I first learned about HackerYou when I attended a Ladies Learning Code event called Data Insights with Python in 2015. It was a fun learning experience with a supportive community and I would love to be a part of a team that helps others in their digital learning experiences. <br> <br>
+
+<strong>Why HackerYou? </strong> <br><br>
+
+•	What I really like about HackerYou is its access to a community of people. I like meeting new people but even more than that, I love to be able to create lasting friendships with the community of students and alumni at HackerYou. <br><br>
+
+•	What really caught my eye about this position is the potential for personal and professional growth in this role and at HackerYou. For example, there is also an opportunity to master the craft of public speaking in this position. I have an interest in learning more about marketing but as someone who loves organizing and enjoys making sure that everything runs smoothly, I would also be interested in moving into the operational side as well. <br><br>
+
+•	From educating students on United Nations Goals in Brazil to tutoring over 100 students in Psychology in university, and teaching English in France, I am passionate about education and have a strong desire to help others. I enjoy constantly learning new things and HackerYou is a digital learning environment that focuses on technology and education. <br><br>
+
+<strong>What Can I Bring to HackerYou? </strong> <br><br>
+
+•	During university, I was an exam aid instructor with a campus organization called Students Offering Support where I tutored students in a psychology course to raise money to help fund educational projects in Latin America. As part of an outreach initiative, my partner and I also pitched our sessions to first year psych classes to promote our services. (We taught over a hundred students and raised $2000 by the end of the semester).  <br><br>
+
+•	I love organizing and making lists. <br><br>
+
+•	I am confident in interacting with customers in a warm and friendly manner from working as a customer experience representative at Indigo. <br><br>
+
+•	I am proficient in using the Microsoft Office Suite as well as Google Docs, Sheets and Slides from my academic experiences in using these tools to complete multiple individual and group projects.  <br><br>
+
+•	A project I successfully completed at Tangerine Bank was to write a market research report evaluating the reward program landscape in the banking industry. I honed my communication skills overseeing the entire writing, editing and proofreading process as well as the creation of a PowerPoint deck and presented my findings to the marketing executive team. Furthermore, as a marketing intern at Unilever, I learned to organize and prioritize multiple tasks at once. While developing a comprehensive document of Unilever and competitive brands in the hair care category, I also updated price and product images in internal databases. and handled inquiries and requests from other teams. <br><br><br>
+
+
+
+Thank you for taking the time to consider this application and I look forward to hearing from you in the near future. 
+
+
+
+<br><br><br>
+</p>
+<hr>
+	<h3 id="resume" style="opacity: 0; padding: 5px"> RESUME </h3>
+	<h2 > RESUME </h2>
+	
+	
+	<div class="header" > <p>Experience </p> </div> 
+	
+	<p style="font-weight:bold;"> International Volunteer, France/Italy, Europe, Jan-June 2017 <br>
+	Workaway</p>
+	<p> Taught and assisted in English classes at an apprenticeship school, assisted in cultural exchange events at a cat café, cat-sitted, helped with construction work of rebuilding a French home, worked at an Italian hostel and restaurant, and provided support at a yoga retreat center. </p>
+
+	<p style="font-weight:bold;"> Trade Marketing Intern, Hair Care and Deodorants, Toronto, Sept-Dec 2015 <br>
+	Unilever <br> </p>
+	<p>Composed a comprehensive image and pricing document of Unilever Canada’s products and direct brand competitors across hair care categories to help team better understand industry and leverage gaps. 
+	Updated internal systems with current fact sheets, images, and pricing of products. <br>
+	
+	<p style="font-weight:bold;"> Junior Business Analyst, Toronto, Jan-April 2015 <br>
+	Deloitte <br> </p>
+	<p> Conducted interviews with company employees to gather data on billing processes and help team develop improvement recommendations. 
+	Performed administrative duties by writing meeting minutes and running ad-hoc tasks. <br>
+
+	<p style="font-weight: bold"> Marketing Strategy and Planning Co-op, Toronto, May-Aug 2014 <br>
+	Tangerine Bank (formerly ING Direct Canada) <br> </p>
+     <p>Prepared a 45-page comprehensive word document on Customer Loyalty Program.
+
+     Proposed potential loyalty concepts and findings to the Marketing Leadership Team.
+
+     Supported the preparation of numerous corporate documents such as; fact-checking, editing, formatting details. </p>
+
+	<div class="header"> <p>Education </p> </div>
+	
+	<p>Honours Bachelor of Business Administration, Waterloo, ON, Sept 2012– June 2017 <br> Wilfrid Laurier University <br>
+ 	Marketing Specialization and Psychology minor </p>
+ 	
+ 	<br><br>
+ 	
+	<hr>
+
+	<h3 id="contact" style="opacity:0; padding: 0px"> CONTACT ME </h3>
+	<h2 > CONTACT ME </h2> 
+	<p style="text-align:center;"> Would you like to get in touch? <br> Send a message or give me a call! </p>
+	<p style="text-align:center;"> <strong>Email:</strong> aprilqu@live.ca </p>
+	<p style="text-align:center; padding-bottom:50px;"> <strong>Cell: </strong>647-269-8686 </p><br><br>
+	
+
+	
+	<div class="header1"><p style="text-align:center;"> Thank you for reviewing my application! <br>Please do not hesitate to reach out &#x263A;</p> 
+	</div>
+	<p style="text-align:center;padding-bottom:15px;"><a href="#top" > Back to top of page </a></p>
+	</div>
+	
+	
+	</body>
+</html> 
+
+
